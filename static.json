@@ -2,6 +2,7 @@
 "headers":{
   "/*":{
       "X-Author":"plotojad"
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
