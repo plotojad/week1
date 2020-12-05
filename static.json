@@ -1,7 +1,7 @@
 {
 "headers":{
   "/*":{
-      "X-Author":"plotojad"
+      "X-Author":"plotojad",
       "Access-Control-Allow-Origin":"*"
     }
   }
